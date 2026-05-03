@@ -1,8 +1,27 @@
 # Sistema de Gestão Hortifruti
 
 Sistema completo em C# (.NET 10.0) com arquitetura de microservices utilizando RabbitMQ para mensageria assíncrona. Implementa dois fluxos independentes: gestão de frutas da época e cadastro de usuários com validação robusta de CPF.
+## 👥 Participantes
 
-## 📋 Índice
+| Nome | RM |
+|------|-----|
+| Bruno Carlos Soares | RM559250 |
+| Davi Praxedes Santos | RM563719 |
+| João dos Santos Cardoso de Jesus | RM560400 |
+| Kauê Vinicius Samartino da Silva | RM559317 |
+| Lucas Borges de Souza | RM560027 |
+| Pedro Henrique da Silva | RM560393 |
+
+## 🎥 Vídeo de Apresentação
+
+**Link do Vídeo:** [Assistir no YouTube](https://youtu.be/7R_d6W8Crnk?si=e_7i-RT7OH7ZYQLc)
+
+> 📹 Vídeo demonstrando a arquitetura, execução e testes do sistema
+
+---
+
+
+##  Índice
 
 - [Arquitetura do Sistema](#-arquitetura-do-sistema)
 - [Pré-requisitos](#-pré-requisitos)
