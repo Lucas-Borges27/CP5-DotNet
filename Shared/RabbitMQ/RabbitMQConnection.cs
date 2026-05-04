@@ -215,4 +215,4 @@ public class RabbitMQConnection : IDisposable
     }
 }
 
-// Made with Bob
+

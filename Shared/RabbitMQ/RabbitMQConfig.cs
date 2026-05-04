@@ -83,4 +83,4 @@ public static class RabbitMQConfig
     public const string UserValidatedRoutingKey = "user.validated";
 }
 
-// Made with Bob
+
